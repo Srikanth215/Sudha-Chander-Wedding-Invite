@@ -1,0 +1,10 @@
+{
+"name":"Sudha & Chander Wedding Invitation",
+"short_name":"Sudha ♥ Chander",
+"start_url":"./",
+"display":"standalone",
+"background_color":"#f4ead7",
+"theme_color":"#741f2d",
+"icons":[
+{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}

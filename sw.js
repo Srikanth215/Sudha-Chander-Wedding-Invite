@@ -1,0 +1,1 @@
+const C="sudha-chander-wedding-v4";self.addEventListener("install",e=>e.waitUntil(caches.open(C).then(c=>c.addAll(["./","./index.html","./manifest.json","./icons/icon-192.png","./icons/icon-512.png"]))));self.addEventListener("activate",e=>e.waitUntil(self.clients.claim()));
